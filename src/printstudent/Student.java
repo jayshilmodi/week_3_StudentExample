@@ -10,7 +10,7 @@ package printstudent;
  * @author JAYSHEEL
  */
 public class Student {
-    private String name = "Jaysheel";
+    private String name = "Jaysheel Modi";
     private int age = 20;
     
     public Student() {}
